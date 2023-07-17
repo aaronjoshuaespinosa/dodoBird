@@ -7,7 +7,7 @@ const Hero = () => {
         <>
             <div className="bg-lblu min-h-screen w-full flex items-center justify-center relative" id='hero'>
                 <Parallax translateY={[40, -70]} className="max-w-screen-xl h-full p-8 pt-32 md:pt-8 mx-auto flex flex-col items-center justify-center gap-y-8 z-40">
-                    <p className="font-caprasimo text-yllw text-8xl lg:text-9xl text-center hero-stroke">DODO BIRD</p>
+                    <p className="font-caprasimo text-yllw text-8xl lg:text-9xl text-center hero-stroke">DODO</p>
                     <p className="text-drkblu text-xl md:text-2xl text-center max-w-lg">When you're so friendly that you become extinct... Dodos, the original social butterflies!</p>
                     <div className="flex gap-x-4">
                         <button className="px-8 py-4 bg-white border-solid border-2 border-drkblu rounded-full font-bold text-lg hover:-translate-y-1 hover:drop-shadow-[0px_5px_0px_rgba(0,0,0,0.25)] transition-all ease-in-out duration-200">BUTTON</button>
