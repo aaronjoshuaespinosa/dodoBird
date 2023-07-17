@@ -30,6 +30,7 @@ const Nav = () => {
             setShow(false)
         }
     };
+    
     return (
         <>
             <nav className={`p-4 pr-8 flex justify-between items-center max-w-screen-xl mx-auto rounded-full transition-all ease-in-out duration-300 ${show ? 'bg-white/50 backdrop-blur-lg m-4 mx-4 lg:mx-auto border-solid border-[1px] border-white/80' : 'bg-transparent m-0 border-solid border-[1px] border-transparent'}`}>
