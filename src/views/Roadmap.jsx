@@ -30,7 +30,7 @@ const Roadmap = () => {
                         <Parallax translateX={[35, 15]} className="w-full h-auto flex flex-row-reverse items-center justify-center relative justify-self-end">
                             <div className="w-full text-ddbrwn flex flex-col items-center justify-center absolute gap-y-4">
                                 <p className="font-caprasimo text-2xl md:text-4xl">ROADMAP 1</p>
-                                <div className="font-bold text-sm md:text-xl">
+                                <div className="font-bold text-base md:text-xl">
                                     <p className="">• Dodo Launch.</p>
                                     <p className="">• Community Building.</p>
                                     <p className="">• Dextools socials update.</p>
@@ -43,7 +43,7 @@ const Roadmap = () => {
                         <Parallax translateX={[-35, 15]} className="w-full flex items-center justify-center relative justify-self-start">
                             <div className="w-full text-ddbrwn flex flex-col items-center justify-center absolute gap-y-4">
                                 <p className="font-caprasimo text-2xl md:text-4xl">ROADMAP 2</p>
-                                <div className="font-bold text-sm md:text-xl">
+                                <div className="font-bold text-base md:text-xl">
                                     <p className="">• Twitter trending.</p>
                                     <p className="">• Collaborations and Partnerships.</p>
                                     <p className="">• Viral marketing campaigns.</p>
@@ -58,7 +58,8 @@ const Roadmap = () => {
                             <div className="w-full text-ddbrwn flex flex-col items-center justify-center absolute gap-y-4">
                                 <p className="font-caprasimo text-2xl md:text-4xl">ROADMAP 3</p>
                                 <div className="font-bold text-base md:text-xl">
-                                    <p className="">COMING SOON.</p>
+                                    <p className="">Coming Soon.</p>
+                                    
                                 </div>
                             </div>
                             <img src="/rm-rock3.svg" alt="" className="" />
@@ -68,7 +69,8 @@ const Roadmap = () => {
                             <div className="w-full text-ddbrwn flex flex-col items-center justify-center absolute gap-y-4">
                                 <p className="font-caprasimo text-2xl md:text-4xl">ROADMAP 4</p>
                                 <div className="font-bold text-base md:text-xl">
-                                    <p className="">COMING SOON.</p>
+                                    <p className="">Coming Soon.</p>
+                                    
                                 </div>
                             </div>
                             <img src="/rm-rock4.svg" alt="" className="" />

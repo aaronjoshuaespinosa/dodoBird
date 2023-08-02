@@ -21,17 +21,17 @@ const Tokenomics = () => {
                     </div>
                     <div className="flex flex-col lg:flex-row gap-y-4 justify-between w-full">
                         <Parallax translateX={[-25, 0]} className="text-center font-caprasimo token-stroke">
-                            <p className="text-white text-9xl md:text-[18rem] md:leading-[16rem]">5%</p>
+                            <p className="text-white text-9xl md:text-[18rem] md:leading-[16rem]">2%</p>
                             <p className="text-llbrwn text-6xl lg:text-8xl">buy tax</p>
                         </Parallax>
                         <Parallax translateX={[25, 0]} className="text-center font-caprasimo token-stroke">
-                            <p className="text-white text-9xl md:text-[18rem] md:leading-[16rem]">5%</p>
+                            <p className="text-white text-9xl md:text-[18rem] md:leading-[16rem]">2%</p>
                             <p className="text-llbrwn text-6xl lg:text-8xl">sell tax</p>
                         </Parallax>
                     </div>
                     <div className="flex gap-x-2 items-center justify-center py-4 text-ddbrwn">
                         <TbClipboard className='text-5xl cursor-pointer hover:scale-[1.06] transition-all ease-in-out duration-300' />
-                        <p className="font-caprasimo text-xl lg:text-2xl">0xb794f5ea0ba39494...</p>
+                        <p className="font-caprasimo text-xl lg:text-2xl">0x0000000000000000000000000000000DeAd</p>
                     </div>
                     <div className="text-ddbrwn flex flex-col lg:flex-row gap-y-4 gap-x-8">
                         <div className="relative flex items-center justify-center cursor-pointer hover:scale-[1.08] transition-all ease-in-out duration-300 w-60 lg:w-auto">
